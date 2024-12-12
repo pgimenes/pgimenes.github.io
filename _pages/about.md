@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in Deep Learning Systems at Imperial College London. My work blends software, hardware, and algorithmic innovation in topics spanning **LLM reasoning**, **heterogeneous distributed systems** and **Machine Learning compilers**.
 
-I have been recognized with multiple Dean's List Awards at Imperial and an IET Horizons Bursary. I am also a regular committer in open-source Machine Learning projects, including [Mase](https://github.com/DeepWok/mase) and [Ample](https://github.com/pgimenes/ample).
+I have been recognized with multiple Dean's List Awards during my undergraduate degree at Imperial College. I am a regular committer in open-source Machine Learning projects, including [Mase](https://github.com/DeepWok/mase) and [Ample](https://github.com/pgimenes/ample). My CV is available [here](https://pgimenes.github.io/files/Pedro_Gimenes_CV.pdf).
 
 Recent Work
 -------------------------
