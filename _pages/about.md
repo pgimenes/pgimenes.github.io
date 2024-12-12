@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Deep Learning Systems at Imperial College London. My work blends hardware, systems and algorithms in topics spanning **LLM reasoning**, **heterogeneous distributed systems** and **Machine Learning compilers**. My CV is available [here](https://pgimenes.github.io/files/Pedro_Gimenes_CV.pdf).
+I am a PhD student in Deep Learning Systems at Imperial College London. My work blends hardware, systems and algorithms in topics spanning **agentic reasoning**, **adaptive inference serving systems** and **Machine Learning compilers**. My CV is available [here](https://pgimenes.github.io/files/Pedro_Gimenes_CV.pdf).
 
-I am a regular committer in open-source Machine Learning projects such as [Mase](https://github.com/DeepWok/mase). Outside work, I like learning languages and practicing Muay Thai. I also occasionally read books and write about them [here](https://pgimenes.github.io/blog/).
+:robot: I am a regular committer in open-source projects such as [Mase](https://github.com/DeepWok/mase).  
+:weight_lifting_man: I enjoy weightlifting and Muay Thai.  
+:books: I occasionally read books and write about them [here](https://pgimenes.github.io/blog/).  
 
 Recent Work
 -------------------------
