@@ -16,20 +16,24 @@ I am a PhD student in Deep Learning Systems at Imperial College London. My work 
 Recent Work
 -------------------------
 
-- **Autonomous Topological Reasoning with Large Language Models**  
-  **Pedro Gimenes**, Zeyu Cao, Yiren Zhao  
-  Preprint, December 2024  
-  [Paper link](https://pgimenes.github.io/files/autonomous-topological-reasoning.pdf)  
-
-- **Scaling Laws for Mixed Quantization in Large Language Models**  
-  Zeyu Cao, Cheng Zhang, **Pedro Gimenes**, Jianqiao Lu, Jianyi Cheng, Yiren Zhao  
-  Preprint, October 2024  
-  [Paper link](https://arxiv.org/abs/2410.06722)  
+- **ARIES: Autonomous Reasoning with LLMs on Interactive Thought Graph Environments**  
+  **Pedro Gimenes**, Zeyu Cao, Jeffrey Wong, Yiren Zhao   
+  February 2025   
+  [pre-print](https://www.arxiv.org/abs/2502.21208)
 
 - **AMPLE: Event-Driven Accelerator for Mixed-Precision Inference of Graph Neural Networks**  
   **Pedro Gimenes**, Yiren Zhao, George Constantinides  
-  Preprint, October 2024  
-  [Paper link](https://pgimenes.github.io/files/ample.pdf)  
+  **EuroMLSys '25**, March 30 - April 3, 2025, Rotterdam, Netherlands   
+  [pre-print](https://www.arxiv.org/abs/2502.21196)  
 
+- **LLM4DV: Using Large Language Models for Hardware Test Stimuli Generation**  
+  Zixi Zhang, Balint Szekely, **Pedro Gimenes**, Greg Chadwick, Hugo McNally, Jianyi Cheng, Robert Mullins, Yiren Zhao  
+  **FCCM '25**, May 4 - May 7, 2024, Fayetteville, Arkansas, USA  
+  [pre-print](https://openreview.net/pdf?id=Srfi0a7vB3)  
+
+- **Scaling Laws for Mixed Quantization in Large Language Models**  
+  Zeyu Cao, Cheng Zhang, **Pedro Gimenes**, Jianqiao Lu, Jianyi Cheng, Yiren Zhao  
+  October 2024    
+  [pre-print](https://arxiv.org/abs/2410.06722)
 
 See [Publications](https://pgimenes.github.io/publications/) for a complete list.
